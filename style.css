@@ -1,0 +1,43 @@
+body {
+  background-color: #F8F7F5;
+  text-align: center;
+  max-width: 680px;
+  
+  margin: 0 auto;
+}
+
+header {
+  background-color: white;
+  padding: 2px;
+  margin-top: 20px;
+}
+
+section {
+  text-align: left;
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-top: 20px;
+}
+
+section h2 {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 3px;
+  
+  border-bottom-style: solid;
+  border-bottom-color: orange;
+}
+
+section h2 .city-description {
+  padding-left: 30px;
+  font-size: 16px;
+}
+
+img {
+  max-width: 80px;
+  max-height: 80px;
+  padding: 8px;
+}
