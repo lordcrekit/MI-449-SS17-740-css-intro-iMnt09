@@ -6,6 +6,10 @@ body {
   margin: 0 auto;
 }
 
+a:visited {
+  color: orange;
+}
+
 header {
   background-color: white;
   padding: 2px;
