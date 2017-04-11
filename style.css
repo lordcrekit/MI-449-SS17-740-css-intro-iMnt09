@@ -1,8 +1,6 @@
 body {
   background-color: #F8F7F5;
   text-align: center;
-  max-width: 680px;
-
   margin: 0 auto;
 }
 
@@ -11,28 +9,33 @@ a:visited {
 }
 
 header {
+  max-width: 475px;
+  margin: 0 auto;
   background-color: white;
-  padding: 2px;
+  padding: 22px;
   margin-top: 20px;
 }
 
+header h1 {
+  margin-bottom: 8px;
+}
+
 section {
+  max-width: 475px;
+  margin: 0 auto;
+  
   text-align: left;
   background-color: white;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 2px;
-  padding-bottom: 2px;
+  padding: 22px;
   margin-top: 20px;
 }
 
 section h2 {
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 3px;
+  padding-bottom: 10px;
 
   border-bottom-style: solid;
-  border-bottom-color: orange;
+  border-bottom-color: darkorange;
+  border-bottom-width: 2px;
 }
 
 section h2 .city-description {
@@ -41,7 +44,7 @@ section h2 .city-description {
 }
 
 img {
-  max-width: 80px;
-  max-height: 80px;
-  padding: 8px;
+  max-width: 55px;
+  max-height: 55px;
+  padding: 6px;
 }
