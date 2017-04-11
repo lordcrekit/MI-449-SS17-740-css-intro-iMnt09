@@ -2,7 +2,7 @@ body {
   background-color: #F8F7F5;
   text-align: center;
   max-width: 680px;
-  
+
   margin: 0 auto;
 }
 
@@ -30,7 +30,7 @@ section h2 {
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 3px;
-  
+
   border-bottom-style: solid;
   border-bottom-color: orange;
 }
